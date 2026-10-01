@@ -1,0 +1,55 @@
+.background{
+    background: linear-gradient(white, gray, black);
+}
+
+.text-color{
+    color: white;
+    opacity: 0.8;
+}
+
+.centering{
+    text-align: center;
+}
+
+.pad{
+padding-left: 100px;
+}
+
+.menu{
+    padding-left: 600px;
+}
+
+.text-color2{
+    color: black;
+    text-decoration: underline;
+}
+
+.text-color3{
+    text-decoration: underline;
+}
+
+a:hover{
+    padding-left: 100px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.back{
+    padding-left: 100px;
+
+}
+
+.itec{
+    color: rgb(27, 158, 27);
+    font-size: 60px;
+}
+
+.underline{
+    opacity: 0.6;
+    color: white;
+    text-decoration: underline;
+}
+
+.good-color{
+    color: rgb(27, 158, 27);
+}
